@@ -1,0 +1,14 @@
+C:\Exercicios C#\HerancaePolimorfismo\HerancaePolimorfismo\bin\Debug\netcoreapp3.1\HerancaePolimorfismo.exe
+C:\Exercicios C#\HerancaePolimorfismo\HerancaePolimorfismo\bin\Debug\netcoreapp3.1\HerancaePolimorfismo.deps.json
+C:\Exercicios C#\HerancaePolimorfismo\HerancaePolimorfismo\bin\Debug\netcoreapp3.1\HerancaePolimorfismo.runtimeconfig.json
+C:\Exercicios C#\HerancaePolimorfismo\HerancaePolimorfismo\bin\Debug\netcoreapp3.1\HerancaePolimorfismo.runtimeconfig.dev.json
+C:\Exercicios C#\HerancaePolimorfismo\HerancaePolimorfismo\bin\Debug\netcoreapp3.1\HerancaePolimorfismo.dll
+C:\Exercicios C#\HerancaePolimorfismo\HerancaePolimorfismo\bin\Debug\netcoreapp3.1\HerancaePolimorfismo.pdb
+C:\Exercicios C#\HerancaePolimorfismo\HerancaePolimorfismo\obj\Debug\netcoreapp3.1\HerancaePolimorfismo.csproj.AssemblyReference.cache
+C:\Exercicios C#\HerancaePolimorfismo\HerancaePolimorfismo\obj\Debug\netcoreapp3.1\HerancaePolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Exercicios C#\HerancaePolimorfismo\HerancaePolimorfismo\obj\Debug\netcoreapp3.1\HerancaePolimorfismo.AssemblyInfoInputs.cache
+C:\Exercicios C#\HerancaePolimorfismo\HerancaePolimorfismo\obj\Debug\netcoreapp3.1\HerancaePolimorfismo.AssemblyInfo.cs
+C:\Exercicios C#\HerancaePolimorfismo\HerancaePolimorfismo\obj\Debug\netcoreapp3.1\HerancaePolimorfismo.csproj.CoreCompileInputs.cache
+C:\Exercicios C#\HerancaePolimorfismo\HerancaePolimorfismo\obj\Debug\netcoreapp3.1\HerancaePolimorfismo.dll
+C:\Exercicios C#\HerancaePolimorfismo\HerancaePolimorfismo\obj\Debug\netcoreapp3.1\HerancaePolimorfismo.pdb
+C:\Exercicios C#\HerancaePolimorfismo\HerancaePolimorfismo\obj\Debug\netcoreapp3.1\HerancaePolimorfismo.genruntimeconfig.cache
